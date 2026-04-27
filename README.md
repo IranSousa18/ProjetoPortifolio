@@ -2,14 +2,25 @@ header:
 nome: IranSousaDev
 avatar: a img do games edu
 
-dev fullstack:
-skils:
-JavaScript
-HTML
-CSS
-Python
-MySql
-MariaDB
+///
+
+
+
+
+💻 Tecnologias
+
+• HTML
+• CSS
+• JavaScript
+• Python
+• MySQL
+• MariaDB
+
+🚀 Em desenvolvimento
+• Desenvolvimento Web (Front-End)
+• Lógica de Programação
+
+/////
 
 nav:
 botão de contato, deve conter:
@@ -18,12 +29,17 @@ link steam
 link likedin
 link zap
 
+///
+
 main:
-falar sobre:
-quem eu sou
-oque eu faço
-oque eestou estudando
-objetivo
 
+Me chamo Iran Cosme de Sousa e recentemente concluí o ensino médio no CETI Liceu Parnaibano. Atualmente, curso Análise e Desenvolvimento de Sistemas na UNINASSAU.
 
-Me chamo Iran Cosme De Sousa, Terminei o ensino medio recentemente na instituição na CETI Liceu Parnaibano, Atualmente estou na faculdade Uninassal cursando ADS (analise e desenvolvimento de sistemas), Desde pequeno sou viciado em qualquer coisa relacionado a tecnologia, Tenho como meu principal hobby jogar jogos online, Adoro jogos indes, tendo como meu jogo favorito Terraria. Atualmente tenho estudado JavaScritp, PHP e MySql, Estou em busca da minha primeira oportunidade profissional na area de desenvolvimento \ TI, para mais informações me contate de algumas das redes sociais abaixo:
+Desde pequeno tenho grande interesse por tecnologia, o que me levou a iniciar meus estudos em desenvolvimento. Atualmente, estou aprendendo JavaScript, PHP e MySQL, buscando evoluir minhas habilidades na área.
+
+Tenho interesse especial em jogos, principalmente indies, sendo Terraria um dos meus favoritos, o que também contribui para minha curiosidade em entender como sistemas e aplicações são construídos.
+
+Estou em busca da minha primeira oportunidade profissional na área de desenvolvimento de software, onde possa aplicar meus conhecimentos e continuar aprendendo.
+
+Para mais informações, entre em contato através das redes sociais abaixo.
+
